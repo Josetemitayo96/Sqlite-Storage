@@ -1,0 +1,3 @@
+hp, jk, 0
+got, m, 0
+lor, t, 0
